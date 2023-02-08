@@ -10,7 +10,5 @@ listView('Utilities') {
         lastSuccess()
         lastFailure()
         lastDuration()
-        disableProject()
-        lastBuildConsole()
     }
 }
